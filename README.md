@@ -1,4 +1,4 @@
-#### Goal
+#### Why?
 
 Learning python. General restlessness. Distracting myself from my own mind, etc.
 
