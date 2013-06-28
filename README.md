@@ -1,6 +1,6 @@
 #### Goal
 
-Learning python.
+Learning python. General restlessness. Distracting myself from my own mind, etc.
 
 
 #### Description
